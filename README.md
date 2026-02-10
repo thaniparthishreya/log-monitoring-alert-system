@@ -14,7 +14,7 @@ System administrators often spend hours manually reviewing logs to identify - fa
 
 -Generates a daily security report   
 
-TECH STACK:  
+### TECH STACK:  
 
 -Python  
 
@@ -22,7 +22,7 @@ TECH STACK:
 
 -SMTP  
 
-HOW IT WORKS:  
+### HOW IT WORKS:  
 
 -Reads server log file  
 
@@ -34,7 +34,7 @@ HOW IT WORKS:
 
 -Sends email alert if suspicious activity is detected  
 
-SETUP INSTRUCTIONS:  
+### SETUP INSTRUCTIONS:  
 
 -Clone the repository  
 
@@ -46,7 +46,7 @@ SETUP INSTRUCTIONS:
 
 -Script can also be automated using crontab   
 
-EXAMPLE OUTPUT:  
+### EXAMPLE OUTPUT:  
 
 Security Report  
 
@@ -57,6 +57,6 @@ Suspicious IPs: ['192.168.1.10']
 Total system errors: 2  
 
 
-AUTHOR  
+## AUTHOR  
 
-SHREYA THANIPARTHI
+### SHREYA THANIPARTHI
