@@ -1,10 +1,10 @@
 # log-monitoring-alert-system
 A Python-based security monitoring tool that scans server log files, detects suspicious activity, and sends real-time email alerts.  This project simulates a lightweight Security Information and Event Monitoring (SIEM) workflow used in real IT environments.  
 
-PROJECT OVERVIEW:
+### PROJECT OVERVIEW:
 System administrators often spend hours manually reviewing logs to identify - failed login attempts and suspicious activity. This project automtes that process by parsing log files using Regex, detecting anomalies, generating a daily security report and sending automated email alerts.  
 
-FEATURES:  
+### FEATURES:  
 
 -Log parsing using python and Regex  
 
